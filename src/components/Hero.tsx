@@ -29,7 +29,7 @@ export function Hero() {
         <div className="relative">
           <div className="absolute inset-0 bg-blue-900 dark:bg-cream rounded-full blur-3xl opacity-20 animate-blob"></div>
           <img
-            src="https://drive.google.com/file/d/1G9sUfFilu_52AwtN8fWGk_8YTJ0Qh_y3/view?usp=drive_link"
+            src="https://github.com/Hemanth26080/sb1-v4n4w9m7/blob/main/src/components/IMG_20240928_140548.jpg"
             alt="Hemanth Ponugothi"
             className="relative w-full max-w-md mx-auto rounded-full border-4 border-blue-900 dark:border-cream shadow-xl"
           />
