@@ -14,7 +14,7 @@ export function Hero() {
           </p>
           
            <div className="flex gap-4">
-            <a href="/src/components/P%20Hemanth%20Resume.pdf" download className="flex items-center gap-2 px-6 py-3 bg-blue-900 dark:bg-cream text-white dark:text-blue-900 rounded-lg hover:bg-blue-800 dark:hover:bg-cream/90 transition-colors">
+            <a href="/src/components/P%20Hemanth%20Resume.pdf" download="P Hemanth Resume.pdf" className="flex items-center gap-2 px-6 py-3 bg-blue-900 dark:bg-cream text-white dark:text-blue-900 rounded-lg hover:bg-blue-800 dark:hover:bg-cream/90 transition-colors">
               <Download className="w-5 h-5" />
               Download Resume
             </a>
